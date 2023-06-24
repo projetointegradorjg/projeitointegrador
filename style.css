@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    background-color: rgb(255, 84, 0);
+    
+}
+.nome{
+    font-size: 10ch;
+    text-align: center;
+    margin-top: 0px;
+    color: rgb(207, 153, 92);
+}
+.login-page {
+    width: 360px;
+    padding: 8% 0 0;
+    margin: auto;
+    border-radius: 100px;
+  }
+  .form {
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+  }
+  .form input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+  
+  .container {
+    position: relative;
+    z-index: 1;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  .container:before, .container:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+  .container .info {
+    margin: 50px auto;
+    text-align: center;
+  }
+  .container .info h1 {
+    margin: 0 0 15px;
+    padding: 0;
+    font-size: 36px;
+    font-weight: 300;
+    color: #1a1a1a;
+  }
+  .container .info span {
+    color: #4d4d4d;
+    font-size: 12px;
+  }
+  .container .info span a {
+    color: #000000;
+    text-decoration: none;
+  }
+  .container .info span .fa {
+    color: #EF3B3A;
+  }
+  body {
+    background: rgb(207, 153, 92);
+    background: rgb(207, 153, 92);
+    background: linear-gradient(90deg, rgba(207,153,92,1) 0%, rgba(207,153,92,1) 50%);
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;      
+  }
+  .notificacoes{
+    background-color: rgb(255, 84, 0);
+    border-radius: 100px;
+    font-size: x-large;
+
+  }
+  .card-body{
+    background-color: rgb(207, 153, 92);
+    border: transparent;
+    border: none;
+    
+  }
+  .meus-animais{
+    font-size: x-large;
+    font-weight: 400;
+    border-radius: 100px;
+    background-color:  rgb(255, 84, 0);
+
+  }
+  .controle{
+    font-size: x-large;
+    text-align: center;
+    color: rgb(207, 153, 92);
+  }
+.botaologin{
+  border-radius: 100px;
+  text-decoration: none;
+  
+}
+  
+.contfund{
+  font-size: x-large;
+  
+    
+}
+.error-message{
+  color: #ff0000;
+}
+.teste{
+  background-color: coral;
+}
